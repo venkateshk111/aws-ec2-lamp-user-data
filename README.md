@@ -66,6 +66,7 @@ user data script for EC2 LAMP server
   ```
 
 ## Links
-- https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/10-ec2/ec2-linux/2-ec2
+- (ec2-lamp) https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/10-ec2/ec2-linux/2-ec2
+- (bootstrap.sh)  https://aws-core-services.ws.kabits.com/two-tier-application-linux/ec2/launch-instance/
 - https://uploads-ssl.webflow.com/5f1c97b8a30ead7807491ac2/5f899b980a9e9f40924a2d9a_EC2LinuxLab.pdf
 - https://github.com/nclouds/immersion-day-basics
