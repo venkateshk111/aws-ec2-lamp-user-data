@@ -38,7 +38,7 @@ user data script for EC2 LAMP server
   ```
 
 - Sample Output
-  [ec2-lamp](./imgs/ec2-lamp.png)
+  ![ec2-lamp](./imgs/ec2-lamp.png)
 
 ## Method 2
 
@@ -69,7 +69,7 @@ user data script for EC2 LAMP server
   ```
 
 - Sample Output
-  [bootstrap](./imgs/bootstrap.png)
+  ![bootstrap](./imgs/bootstrap.png)
 ## Links
 - (ec2-lamp) https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/10-ec2/ec2-linux/2-ec2
 - (bootstrap.sh)  https://aws-core-services.ws.kabits.com/two-tier-application-linux/ec2/launch-instance/
